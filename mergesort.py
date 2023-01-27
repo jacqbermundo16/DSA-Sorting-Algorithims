@@ -1,3 +1,5 @@
+#reference - https://www.youtube.com/watch?v=cVZMah9kEjI
+
 def merge_sort(arr):
     if len(arr) > 1:
         left_arr = arr[:len(arr)//2]

@@ -1,3 +1,5 @@
+#reference - https://www.youtube.com/watch?v=Vca808JTbI8
+
 def sort(nums):
     for i in range(len(nums)-1, 0, -1):
         for j in range(i):

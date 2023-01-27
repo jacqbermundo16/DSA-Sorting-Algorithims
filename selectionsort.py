@@ -1,3 +1,5 @@
+# reference - https://www.youtube.com/watch?v=5KjapFQNxUo
+
 def sort(nums):
     for i in range(9):
         minpos = i

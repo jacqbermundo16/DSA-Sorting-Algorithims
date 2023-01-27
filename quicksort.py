@@ -1,3 +1,5 @@
+#reference - https://www.youtube.com/watch?v=9KBwdDEwal8
+
 def quicksort(arr, left, right):
     if left < right:
         partition_pos = partition(arr, left, right)
